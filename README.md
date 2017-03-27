@@ -5,3 +5,4 @@ This is a a repository which contains all projects I'm going to work on as part 
 
 ---------------------------------
 - Titanic Survival Exploration Project
+- Predicting Boston Housing Prices Project
